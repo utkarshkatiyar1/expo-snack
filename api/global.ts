@@ -1,0 +1,1 @@
+export type APIType<T> = { data: T };
